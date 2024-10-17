@@ -1,0 +1,6 @@
+sqlalchemy
+requests
+pyyaml
+mysql.connector
+mysqlclient
+
