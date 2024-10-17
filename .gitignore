@@ -1,3 +1,5 @@
 venv/
 ltopvenv/
 __pycache__
+mysqlbcit/.env
+user.yml
